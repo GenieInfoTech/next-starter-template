@@ -1,4 +1,4 @@
-# Limadi-WEB-Next
+# Genie Next.js Template
 
 A new refactored version of Limadi-Web build with modern nextjs and all the latest development tools. To make it more stable, added multiple layer of testing and debugging tools both e2e and component level.
 
